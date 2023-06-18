@@ -12,6 +12,8 @@
 
 <h2>ConquerBlocks</h2>
 <h3>🐍Python</h3>
-Read more [here](./solidity-conquerblocks-exercises/) # It works!
+<ul>
+  <li><a href="https://github.com/Radin6/solidity-conquerblocks-exercises">Exercices</a></li>
+</ul>
 <h3>⬛Solidity</h3>
 <h3>🔶HTML5</h3>
