@@ -8,5 +8,9 @@
 <!-- - ⚡ Fun fact: ...-->
 <!-- - 💬 Ask me about ...-->
 
-<h2>ConquerBlocks</h2>
+<h1>My exercise and projects are the following:</h1>
 
+<h2>ConquerBlocks</h2>
+<h3>🐍Python</h3>
+<h3>⬛Solidity</h3>
+<h3>🔶HTML5</h3>
