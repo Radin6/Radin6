@@ -8,7 +8,7 @@
 <!-- - ⚡ Fun fact: ...-->
 <!-- - 💬 Ask me about ...-->
 
-<h2>My exercises and projects are the following:</h2>
+<h2>My projects and exercises are the following:</h2>
 <h3>🐍Python</h3>
 <p><a href="https://github.com/Radin6/python-conquerblocks-exercise">ConquerBlocks - Exercises</a></p>
 <p></p><a href="https://github.com/Radin6/python-projects">Own projects</a></p>
