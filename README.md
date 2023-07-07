@@ -10,9 +10,9 @@
 
 <h2>My exercises and projects are the following:</h2>
 <h3>🐍Python</h3>
-<a href="https://github.com/Radin6/python-conquerblocks-exercise">ConquerBlocks - Exercises</a>
-<a href="https://github.com/Radin6/python-projects">Own projects</a>
+<p><a href="https://github.com/Radin6/python-conquerblocks-exercise">ConquerBlocks - Exercises</a></p>
+<p></p><a href="https://github.com/Radin6/python-projects">Own projects</a></p>
 <h3>⬛Solidity</h3>
-<a href="https://github.com/Radin6/solidity-conquerblocks-exercises">ConquerBlocks - Exercises</a>
+<p><a href="https://github.com/Radin6/solidity-conquerblocks-exercises">ConquerBlocks - Exercises</a></p>
 <h3>🔶HTML5</h3>
-<a href="https://github.com/Radin6/html-conquerblocks-exercise">ConquerBlocks - Exercises</a>
+<p><a href="https://github.com/Radin6/html-conquerblocks-exercise">ConquerBlocks - Exercises</a></p>
