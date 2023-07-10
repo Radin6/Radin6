@@ -19,3 +19,4 @@
 <h3>🔶HTML5</h3>
 <p><a href="https://github.com/Radin6/html-conquerblocks-exercise">ConquerBlocks - Exercises</a></p>
 <h3>CSS</h3>
+<p><a href="https://github.com/Radin6/css-conquerblocks-exercises">ConquerBlocks - Exercises</a></p>
