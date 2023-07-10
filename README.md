@@ -11,8 +11,11 @@
 <h2>My projects and exercises are the following:</h2>
 <h3>🐍Python</h3>
 <p><a href="https://github.com/Radin6/python-conquerblocks-exercise">ConquerBlocks - Exercises</a></p>
-<p></p><a href="https://github.com/Radin6/python-projects">My projects</a></p>
+<p><a href="https://github.com/Radin6/python-projects">My projects</a></p>
+<p><a href="https://github.com/Radin6/advent-of-code">Advent of Code</a></p>
 <h3>⬛Solidity</h3>
 <p><a href="https://github.com/Radin6/solidity-conquerblocks-exercises">ConquerBlocks - Exercises</a></p>
+<p><a href="https://github.com/Radin6/solidity-freeCodeCamp-exercises">FreeCodeCamp - Exercises</a></p>
 <h3>🔶HTML5</h3>
 <p><a href="https://github.com/Radin6/html-conquerblocks-exercise">ConquerBlocks - Exercises</a></p>
+<h3>CSS</h3>
