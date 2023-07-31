@@ -15,8 +15,8 @@
 <!-- - 💬 Ask me about ...-->
 
 <h2>My projects and exercises are the following:</h2>
-<h3>🐍Python</h3>
-<p><a href="https://github.com/Radin6/python-conquerblocks-exercise">ConquerBlocks - Exercises</a>ci-layout</p>
+<h3><i class="ci-python"></i> Python</h3>
+<p><a href="https://github.com/Radin6/python-conquerblocks-exercise">ConquerBlocks - Exercises</a></p>
 <p><a href="https://github.com/Radin6/python-projects">My projects</a></p>
 <p><a href="https://github.com/Radin6/advent-of-code">Advent of Code</a></p>
 <h3>⬛Solidity</h3>
