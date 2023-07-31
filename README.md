@@ -30,5 +30,5 @@
         CSS</h3>
     <p><a href="https://github.com/Radin6/css-conquerblocks-exercises">ConquerBlocks - Exercises</a></p>
     <h2>Activity:</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radin6&layout=compact"/>
 </body>
