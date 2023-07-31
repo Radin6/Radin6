@@ -1,6 +1,3 @@
-<!doctype html>
-<html class="no-js" lang="">
-
 <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
@@ -14,11 +11,6 @@
         <li>📫 <a href="https://twitter.com/nicoa_ramos">Twitter</a> - I share crypto news, blochain tecnology info,
             crypto analysis</li>
     </ul>
-
-    <!-- - 🤔 I’m looking for help with ... -->
-    <!-- - ⚡ Fun fact: ...-->
-    <!-- - 💬 Ask me about ...-->
-
     <h2>My projects and exercises are the following:</h2>
     <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px" />
         Python</h3>
@@ -39,5 +31,3 @@
         CSS</h3>
     <p><a href="https://github.com/Radin6/css-conquerblocks-exercises">ConquerBlocks - Exercises</a></p>
 </body>
-
-</html>
