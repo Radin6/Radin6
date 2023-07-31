@@ -1,5 +1,3 @@
-<!doctype html>
-<html class="no-js" lang="">
 <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
@@ -32,4 +30,3 @@
         CSS</h3>
     <p><a href="https://github.com/Radin6/css-conquerblocks-exercises">ConquerBlocks - Exercises</a></p>
 </body>
-</html>
