@@ -1,4 +1,8 @@
-<h2>Hi there 👋, I'm Nicolás Ramos!</h2>
+<head>
+</head>
+
+<body>
+  <h2>Hi there 👋, I'm Nicolás Ramos!</h2>
 
 - 🔭 I’m currently studying a Master's degree on Full Stack Blockchain development (ConquerBlocks)
 - 🌱 I’m currently learning: Solidity, Phyton, Javascript, HTML5 and CSS (Rust then)
@@ -20,3 +24,5 @@
 <p><a href="https://github.com/Radin6/html-conquerblocks-exercise">ConquerBlocks - Exercises</a></p>
 <h3>CSS</h3>
 <p><a href="https://github.com/Radin6/css-conquerblocks-exercises">ConquerBlocks - Exercises</a></p>
+</body>
+
