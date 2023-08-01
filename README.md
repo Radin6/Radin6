@@ -3,8 +3,9 @@
 </head>
 <body>
     <h2>Hi there 👋, I'm Nicolás Ramos!</h2>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
     <ul>
-        <li>🔭 I’m currently studying a Master's degree on Full Stack Blockchain development (ConquerBlocks)</li>
+        <li>🔭 I’m currently studying a Course on Full Stack Blockchain development (ConquerBlocks)</li>
         <li>🌱 My skills are: Solidity, Phyton, Javascript, HTML5, React JS and CSS (Rust then)</li>
         <li>👯 I’m looking to collaborate on a Web3/DeFi project.</li>
         <li>📫 <a href="https://twitter.com/nicoa_ramos">Twitter</a> - I share crypto news, blockchain tecnology info,
