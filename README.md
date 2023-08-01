@@ -14,13 +14,15 @@
     <!-- - ⚡ Fun fact: ...-->
     <!-- - 💬 Ask me about ...-->
     <h2>Technologies</h2>
-    <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity">
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3">
-    <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/-Rust-000000?logo=rust">
+    <div id="banner" style="overflow: hidden; display: inline-block;">
+        <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity">
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3">
+        <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/-Rust-000000?logo=rust">
+    </div>
     <h2>My projects and exercises are the following:</h2>
     <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px" />
         Python</h3>
