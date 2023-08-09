@@ -9,7 +9,7 @@
         <li>👯 I’m looking to collaborate on a Web3/DeFi project.</li>
         <li>📫 <a href="https://twitter.com/nicoa_ramos">Twitter</a> - I share crypto news, blockchain tecnology info,
             crypto analysis</li>
-        <li><a href="https://radin6.github.io/">My Porfolio Webpage</a></li>
+        <li>👉 <a href="https://radin6.github.io/">My Porfolio Webpage</a></li>
     </ul>
     <!-- - 🤔 I’m looking for help with ... -->
     <!-- - ⚡ Fun fact: ...-->
