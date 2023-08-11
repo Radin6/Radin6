@@ -25,22 +25,22 @@
         <img src="https://img.shields.io/badge/-Rust-000000?logo=rust">
     </p>
     <h2>My projects and exercises are the following:</h2>
-    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px" />
+    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" />
         Python</h3>
     <p><a href="https://github.com/Radin6/python-conquerblocks-exercise">ConquerBlocks - Exercises</a></p>
     <p><a href="https://github.com/Radin6/python-projects">My projects</a></p>
     <p><a href="https://github.com/Radin6/advent-of-code">Advent of Code</a></p>
-    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="20px" />
+    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="25px" />
         Solidity</h3>
     <p><a href="https://github.com/Radin6/solidity-conquerblocks-exercises">ConquerBlocks - Exercises</a></p>
     <p><a href="https://github.com/Radin6/solidity-freeCodeCamp-exercises">FreeCodeCamp - Exercises</a></p>
-    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="20px" />
+    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="25px" />
         HTML5</h3>
     <p><a href="https://github.com/Radin6/html-conquerblocks-exercise">ConquerBlocks - Exercises</a></p>
-    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="20px" />
+    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="25px" />
         CSS</h3>
     <p><a href="https://github.com/Radin6/css-conquerblocks-exercises">ConquerBlocks - Exercises</a></p>
-    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="20px" />
+    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="25px" />
         Rust</h3>
     <p><a href="https://github.com/Radin6/rust-officialdocs-exercise">ConquerBlocks - Exercises</a></p>
     <h2>Activity:</h2>
