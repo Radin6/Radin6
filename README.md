@@ -42,7 +42,7 @@
     <p><a href="https://github.com/Radin6/css-conquerblocks-exercises">ConquerBlocks - Exercises</a></p>
     <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="25px" />
         Rust</h3>
-    <p><a href="https://github.com/Radin6/rust-officialdocs-exercise">ConquerBlocks - Exercises</a></p>
+    <p><a href="https://github.com/Radin6/rust-officialdocs-exercise">Official Docs - Exercises</a></p>
     <h2>Activity:</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radin6&layout=compact"/>
 </body>
