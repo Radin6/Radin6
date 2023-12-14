@@ -22,7 +22,6 @@
         <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3">
         <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white">
-
     </p>
     <h2>My projects and exercises are the following:</h2>
     <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" />
