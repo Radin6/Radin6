@@ -23,25 +23,4 @@
         <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3">
         <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white">
     </p>
-    <h2>My projects and exercises are the following:</h2>
-    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" />
-        Python</h3>
-    <p><a href="https://github.com/Radin6/python-conquerblocks-exercise">ConquerBlocks - Exercises</a></p>
-    <p><a href="https://github.com/Radin6/python-projects">My projects</a></p>
-    <p><a href="https://github.com/Radin6/advent-of-code">Advent of Code</a></p>
-    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="25px" />
-        Solidity</h3>
-    <p><a href="https://github.com/Radin6/solidity-conquerblocks-exercises">ConquerBlocks - Exercises</a></p>
-    <p><a href="https://github.com/Radin6/solidity-freeCodeCamp-exercises">FreeCodeCamp - Exercises</a></p>
-    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="25px" />
-        HTML5</h3>
-    <p><a href="https://github.com/Radin6/html-conquerblocks-exercise">ConquerBlocks - Exercises</a></p>
-    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="25px" />
-        CSS</h3>
-    <p><a href="https://github.com/Radin6/css-conquerblocks-exercises">ConquerBlocks - Exercises</a></p>
-    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="25px" />
-        Rust</h3>
-    <p><a href="https://github.com/Radin6/rust-official-docs-exercise">Official Docs - Exercises</a></p>
-    <h2>Activity:</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radin6&layout=compact"/>
 </body>
