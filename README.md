@@ -7,7 +7,7 @@
         <li>🔭 I’m currently studying a Course on Full Stack Blockchain development (ConquerBlocks)</li>
         <!-- <li>🌱 My skills are: Solidity, Phyton, Javascript, HTML5, React JS and CSS (Rust then)</li> -->
         <li>👯 I’m looking to collaborate on a Web3/DeFi project.</li>
-        <li>👉 <a href="https://radin6.github.io/">My Porfolio Webpage</a></li>
+        <li>👉 <a href="https://www.nicor.dev/">My Porfolio Webpage</a></li>
     </ul>
     <!-- - 🤔 I’m looking for help with ... -->
     <!-- - ⚡ Fun fact: ...-->
